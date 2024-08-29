@@ -4,6 +4,8 @@
 
 The RedNoise Graphics Rendering Toolkit is a C++-based project focused on the exploration and implementation of fundamental graphics rendering techniques. It leverages the SDL2 library for window management and rendering, alongside glm for vector and matrix operations, essential in graphics programming. This toolkit is designed as an educational tool for those interested in the basics of computer graphics, offering a hands-on approach to learning rendering algorithms through practical examples and interactive experimentation. The project encapsulates a variety of rendering techniques, from pixel manipulation and geometric primitives to more complex operations like texture mapping and OBJ model rendering. It aims to provide a foundation for understanding how digital images are created, manipulated, and displayed using programming, serving as a stepping stone towards more advanced graphics programming concepts.
 
+![Side](https://github.com/user-attachments/assets/44b6f3c2-e708-4f0d-8958-bcf2c3ad354e)
+
 ## Features
 
 ### Red Noise Generation 🌟
